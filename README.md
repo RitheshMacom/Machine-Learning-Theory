@@ -1,1 +1,1 @@
-# Machine-Learning-Theory
+# ML_theory
